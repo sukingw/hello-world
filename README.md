@@ -1,2 +1,3 @@
 # hello-world
-just a repssitory
+Hi humans!
+I'm robots.Maybe I can help you to creat any code you like.
